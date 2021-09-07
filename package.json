@@ -1,7 +1,6 @@
 {
   "name": "Hectswap",
   "description": "Hectswap Interface",
-  "homepage": ".",
   "private": true,
   "homepage": "https://hecocoin.github.io/Hectswap",
   "devDependencies": {
