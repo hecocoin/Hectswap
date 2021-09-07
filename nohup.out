@@ -1,0 +1,268 @@
+yarn run v1.22.11
+$ react-scripts start
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.0.103/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /usr/myswap/Hectswap-interface/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+events.js:377
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event on ReadStream instance at:
+    at internal/fs/streams.js:173:14
+    at FSReqCallback.wrapper [as oncomplete] (fs.js:561:5) {
+  errno: -9,
+  code: 'EBADF',
+  syscall: 'read'
+}
+error Command failed with exit code 1.
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+yarn run v1.22.11
+$ react-scripts start
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.0.103/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /usr/myswap/Hectswap-interface/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+events.js:377
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event on ReadStream instance at:
+    at internal/fs/streams.js:173:14
+    at FSReqCallback.wrapper [as oncomplete] (fs.js:561:5) {
+  errno: -9,
+  code: 'EBADF',
+  syscall: 'read'
+}
+error Command failed with exit code 1.
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+
+> Hectswap@ start /usr/myswap/Hectswap-interface
+> react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.0.103/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /usr/myswap/Hectswap-interface/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+events.js:377
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event on ReadStream instance at:
+    at internal/fs/streams.js:173:14
+    at FSReqCallback.wrapper [as oncomplete] (fs.js:561:5) {
+  errno: -9,
+  code: 'EBADF',
+  syscall: 'read'
+}
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! Hectswap@ start: `react-scripts start`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the Hectswap@ start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2021-08-31T15_35_20_991Z-debug.log
+
+> Hectswap@ start /usr/myswap/Hectswap-interface
+> react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.0.103/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /usr/myswap/Hectswap-interface/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+events.js:377
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event on ReadStream instance at:
+    at internal/fs/streams.js:173:14
+    at FSReqCallback.wrapper [as oncomplete] (fs.js:561:5) {
+  errno: -9,
+  code: 'EBADF',
+  syscall: 'read'
+}
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! Hectswap@ start: `react-scripts start`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the Hectswap@ start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2021-08-31T15_36_58_475Z-debug.log
+
+> Hectswap@ start /usr/myswap/Hectswap
+> react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.0.103/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /usr/myswap/Hectswap/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+events.js:377
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event on ReadStream instance at:
+    at internal/fs/streams.js:173:14
+    at FSReqCallback.wrapper [as oncomplete] (fs.js:561:5) {
+  errno: -9,
+  code: 'EBADF',
+  syscall: 'read'
+}
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! Hectswap@ start: `react-scripts start`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the Hectswap@ start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2021-09-02T15_30_22_487Z-debug.log
+
+> Hectswap@ start /usr/myswap/Hectswap
+> react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.0.103/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /usr/myswap/Hectswap/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+events.js:377
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event on ReadStream instance at:
+    at internal/fs/streams.js:173:14
+    at FSReqCallback.wrapper [as oncomplete] (fs.js:561:5) {
+  errno: -9,
+  code: 'EBADF',
+  syscall: 'read'
+}
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! Hectswap@ start: `react-scripts start`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the Hectswap@ start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2021-09-02T15_31_35_651Z-debug.log
+
+> Hectswap@ start /usr/myswap/Hectswap
+> react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.0.103/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /usr/myswap/Hectswap/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+events.js:377
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event on ReadStream instance at:
+    at internal/fs/streams.js:173:14
+    at FSReqCallback.wrapper [as oncomplete] (fs.js:561:5) {
+  errno: -9,
+  code: 'EBADF',
+  syscall: 'read'
+}
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! Hectswap@ start: `react-scripts start`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the Hectswap@ start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2021-09-02T15_34_42_590Z-debug.log
+
+> Hectswap@ start /usr/myswap/Hectswap
+> react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.0.103/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /usr/myswap/Hectswap/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+events.js:377
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event on ReadStream instance at:
+    at internal/fs/streams.js:173:14
+    at FSReqCallback.wrapper [as oncomplete] (fs.js:561:5) {
+  errno: -9,
+  code: 'EBADF',
+  syscall: 'read'
+}
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! Hectswap@ start: `react-scripts start`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the Hectswap@ start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2021-09-05T07_27_14_386Z-debug.log
+
+> Hectswap@ start /usr/myswap/Hectswap
+> react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.0.103/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /usr/myswap/Hectswap/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+events.js:377
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event on ReadStream instance at:
+    at internal/fs/streams.js:173:14
+    at FSReqCallback.wrapper [as oncomplete] (fs.js:561:5) {
+  errno: -9,
+  code: 'EBADF',
+  syscall: 'read'
+}
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! Hectswap@ start: `react-scripts start`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the Hectswap@ start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2021-09-05T07_31_01_787Z-debug.log
